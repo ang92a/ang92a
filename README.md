@@ -13,11 +13,13 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="telegram-url">
-      <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+      <a href="https://discord.gg/ReHdMJZsPt" alt="Discord" title="my channel">
+    <img src="https://img.shields.io/discord/ReHdMJZsPt?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
   </a>
 </div>
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
