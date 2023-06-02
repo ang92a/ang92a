@@ -7,14 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com/?lines= Frontend+developer+from+Russia+🇷🇺&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <div id="socials" align="center">
-      <a href="https://discord.gg/ReHdMJZsPt" alt="Discord" title="my channel">
-    <img src="https://img.shields.io/discord/768147229621092424?color=blue&logo=discord&logoColor=white&style=for-the-badge"/></a>
-    <p>
+[![Telegram Badge](https://img.shields.io/badge/-1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NatNat28)
+
     <img src="https://komarev.com/ghpvc/?username=ang92a&style=for-the-badge&color=blue" alt=""/>
         </p>
   </a>
@@ -41,3 +37,6 @@
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ang92a&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
