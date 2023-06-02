@@ -10,7 +10,7 @@
 ---
 ### :woman_technologist: About Me :
 
-- 🌱 Окончила буткемп школу в мае 2023 года.
+- 🌱 Окончила буткемп школу в мае 2023 года
 - 🌍 Учу английский
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-NatNat-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NatNat28)
 <div id="socials" align="center">
