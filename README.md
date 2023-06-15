@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines= Frontend+developer+from+Russia+🇷🇺&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </div>
 
----
+
 ### :woman_technologist: About Me :
 
 - 🌱 Окончила буткемп школу в мае 2023 года
@@ -20,7 +20,6 @@
   </a>
 </div>
 
----
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,7 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
----
+
+
 
 ### :fire: My Stats :
 
